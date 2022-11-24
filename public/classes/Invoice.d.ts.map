@@ -1,0 +1,1 @@
+{"version":3,"file":"Invoice.d.ts","sourceRoot":"","sources":["../../src/classes/Invoice.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,OAAO,EAAC,MAAM,0BAA0B,CAAC;AAEjD,qBAAa,OAAQ,YAAW,OAAO;IAE/B,OAAO,CAAC,IAAI;IACZ,OAAO,CAAC,UAAU;gBADV,IAAI,EAAE,MAAM,EACZ,UAAU,EAAE,MAAM;IAI9B,OAAO;;;;CAGV"}
